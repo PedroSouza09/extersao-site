@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background-color: #282828;
+  background-color: #0f172a;
   /* font-family: 'Poppins', sans-serif; */
   font-family: 'Oxanium', cursive;
   margin: 0 auto;
@@ -55,7 +55,9 @@ body {
 
 .title {
   background-color: #141e33;
+  padding-bottom: 20px;
   margin-bottom: 20px;
+  border-bottom: 2px solid #ffffff;
 }
 
 body .title h1 {
