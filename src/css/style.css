@@ -108,7 +108,7 @@ body .title h2 {
 
 .qrcode {
   border-radius: 8px;
-  margin: auto;
+  margin-right: 70px;
   padding: 10px;
   display: flex;
   background: linear-gradient(to right, #f37b62, #b6ac85, #67fdc0);
