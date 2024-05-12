@@ -117,6 +117,7 @@ body .title h2 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 700px;
 }
 
 .grafico img {
@@ -145,7 +146,8 @@ body .title h2 {
   /* height: 2000px; */
 }
 
-.shortcuts p.bonus {
+.informacoes p.bonus {
+  margin-top: 20px;
   font-size: 20px;
   text-align: center;
 }
