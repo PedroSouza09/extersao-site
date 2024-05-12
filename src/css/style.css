@@ -108,6 +108,31 @@ body .title h2 {
   border-radius: 50px;
 }
 
+.big {
+  font-size: 40px;
+}
+
+.grafico {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.grafico img {
+  border-radius: 10px;
+}
+
+.grafic {
+  border-radius: 10px;
+  margin-bottom: 70px;
+  padding: 10px;
+  display: flex;
+  background: linear-gradient(to right, #f37b62, #b6ac85, #67fdc0);
+  background-size: 180% 180%;
+  animation: gradient-animation 5s ease infinite;
+}
+
 .qrcode {
   border-radius: 8px;
   margin-right: 70px;
@@ -147,7 +172,7 @@ body .title h2 {
   justify-content: center;
 }
 
-.shortcuts .shortcut {
+body .shortcuts .shortcut {
   background-color: #65ffc3;
   padding: 20px 5px;
   text-align: center;
